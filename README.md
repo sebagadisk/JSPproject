@@ -8,13 +8,12 @@ information management system. This web application is full-fledged logic using 
 technologies in the market with maximum functionalities, efficiency, and optimal speed on a web.
 ### Screenshot
 
-<img src="https://drive.google.com/file/d/1s9sRdpfeFInUjF40sreisLfKLKHEHAVR/preview" width="850" alt="Login UI" />
-<img src="https://drive.google.com/file/d/1s9sRdpfeFInUjF40sreisLfKLKHEHAVR/view?usp=sharing" width="850" alt="Login UI" />
-<img src="https://drive.google.com/file/d/1RVJOJbiqQTLvI1-0DY9iPZexsYrevino/view?usp=sharing" width="850" alt="CreateAccount UI" />
-<img src="https://drive.google.com/file/d/1so8n9Ny7gM2nK0ZP6EKDfLD9R2bFfh-F/view?usp=sharing" width="850" alt="Home UI" />
-<img src="https://drive.google.com/file/d/1gkE5iK3urBRL5TivAv6ZkZa0wAUYA7pu/view?usp=sharing" width="850" alt="Student Registration UI" />
-<img src="https://drive.google.com/file/d/1d35jBXSFGRMv_743h1cCvKVjxwNcE7eI/view?usp=sharing" width="850" alt="List UI"/>
-<img src="https://drive.google.com/file/d/1U-1eXfgg_x0GpEwmliAYrgw9Gy3DTnIt/view?usp=sharing" width="850" alt="Search UI"/>
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Login.PNG" width="850" alt="Login UI" />
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Registeration%20Form.PNG" width="850" alt="CreateAccount UI" />
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Home%20Page.PNG" width="850" alt="Home UI" />
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Student%20Registeration%20Form.PNG" width="850" alt="Student Registration UI" />
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/List%20of%20student.PNG" width="850" alt="List UI"/>
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Search%20Page.PNG" width="850" alt="Search UI"/>
 
 ## Technologies
 ***
