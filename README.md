@@ -1,4 +1,4 @@
-##Student Information Management System (SIMS)
+## Student Information Management System (SIMS)
 ***
 
 ### Introduction
