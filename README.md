@@ -41,7 +41,7 @@ A list of technologies used within the project:
 ## Programming Language
 ***
 * [Java Server Page (JSP)](https://www.eclipse.org/downloads/packages/)
-* [MySQL query language](https://www.mysql.com/)
+* [SQL query language](https://www.mysql.com/)
 
 ## Markup Language
 ***
@@ -49,7 +49,7 @@ A list of technologies used within the project:
 * [Cascading Style Sheets (CSS)](https://www.w3schools.com/cssref/): Version 3
 * [Extensible Markup Language (XML)](https://www.w3schools.com/xml/xml_whatis.asp) : Version -
 
-##Features
+## Features
 ***
 * Login
 * Create an Account
@@ -58,7 +58,7 @@ A list of technologies used within the project:
 * Search Students
 * Logout
 
-##About
+## About
 ***
 **Ethio Clicks**: website [https://ethioclicks.com/](https://ethioclicks.com/) <br>
 Software engineer **Sebagadis Kahsay**
